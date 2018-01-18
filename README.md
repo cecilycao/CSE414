@@ -1,1 +1,1 @@
-# cse373
+# cse415 Intro to AI
